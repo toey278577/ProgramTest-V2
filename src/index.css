@@ -1,0 +1,33 @@
+*{
+  background-color: rgb(241, 241, 241);
+}
+body {
+  text-align: center;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.style{
+  margin-top: 150px;
+  text-align: center;
+}
+/* .Locks{
+margin-right: 5px;
+}
+.Stocks{
+  margin-right: 5px;
+}
+.Barrels{
+  margin-right: 5px;
+}
+.Calculate{
+  margin-top: 20px;
+} */
